@@ -5,7 +5,7 @@
         height: 80vh !important;
     }
 
-/* For Dynamic Content Switching */
+/* For Dynamic Content Switching a*/
     .content {
         display: none; /* Hide all content by default */
     }

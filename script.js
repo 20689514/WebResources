@@ -1,5 +1,5 @@
 function showSection(sectionId) {
-    // Hide all content
+    // Hide all contenta
     const contents = document.querySelectorAll('.content');
     contents.forEach(content => content.classList.remove('active'));
 
